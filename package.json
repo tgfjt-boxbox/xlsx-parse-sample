@@ -1,0 +1,14 @@
+{
+  "name": "xlsx-test",
+  "version": "0.0.0",
+  "description": "sample for parsing japanese xlsx.",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tgfjt",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.7.12"
+  }
+}
